@@ -1,0 +1,33 @@
+.city-container {
+    padding: 2rem;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color: #fefefe;
+    color: #333;
+    line-height: 1.7;
+  }
+  
+  .city-container h1 {
+    font-size: 2.5rem;
+    margin-bottom: 1rem;
+    color: #004466; /* як у AboutMe */
+  }
+  
+  .city-container h2 {
+    font-size: 1.8rem;
+    margin-bottom: 0.8rem;
+    color: #006699;
+    border-bottom: 2px solid #ccc;
+    padding-bottom: 0.2rem;
+  }
+  
+  .city-container section {
+    margin-bottom: 2.5rem;
+  }
+  
+  .city-container ul {
+    list-style: none;
+    padding: 0;
+    margin-top: 1rem;
+    line-height: 1.6;
+  }
+  

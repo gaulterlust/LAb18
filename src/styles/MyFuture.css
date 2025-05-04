@@ -1,0 +1,35 @@
+.future-container {
+    padding: 2rem;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color: #fefefe;
+    color: #333;
+    line-height: 1.7;
+  }
+  
+  .future-container h1 {
+    font-size: 2.5rem;
+    margin-bottom: 1rem;
+    color: #004466; /* той самий відтінок */
+  }
+  
+  .future-container h2 {
+    font-size: 1.8rem;
+    margin-bottom: 0.8rem;
+    color: #006699;
+    border-bottom: 2px solid #ccc;
+    padding-bottom: 0.2rem;
+  }
+  
+  .future-container ol {
+    margin-left: 1.5rem;
+    margin-top: 1rem;
+  }
+  
+  .future-container blockquote {
+    font-style: italic;
+    background-color: #f4f4f4;
+    padding: 1rem;
+    border-left: 4px solid #ccc;
+    margin: 1.5rem 0;
+  }
+  
